@@ -13,8 +13,9 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 ---
 
 ## 🔗 Live Application Gateways
-* **Production Live URL:** https://student-placement-predictor-app-6rll.onrender.com
-* **Source Repository:** https://github.com/iamgkkj/Car-Price-Predictor-Docker.git
+* **Production Live URL:** https://student-placement-predictor-docker.onrender.com
+* **Source Repository:** https://github.com/iamgkkj/Student-Placement-Predictor-Docker.git
+
 
 ---
 
