@@ -2,6 +2,20 @@
 
 An end-to-end Machine Learning web application designed to evaluate a student's campus placement probability based on core academic performance indicators, soft skills, technical proficiency, and program dedication. The system trains a Random Forest Classifier on a feature matrix and serves real-time binary classifications through a containerized Flask micro-service.
 
+## 📱 Scan for Live Demo 🚀
+
+<p align="center">
+  <a href="https://student-placement-predictor-docker.onrender.comm" target="_blank">
+    <img src="https://github.com/iamgkkj/Student-Placement-Predictor-Docker/blob/3cc227f96080d20f897b0c43eb24b7ca78834813/static/qr.png"
+         alt="Scan for Live Demo"
+         width="240">
+  </a>
+</p>
+
+<p align="center">
+  <strong>📲 Scan the QR Code to Open the Live Demo 🚗💨</strong><br>
+  <em>or click the QR code to visit the application directly.</em>
+</p>
 ---
 
 ## 👤 Student Profile
@@ -12,9 +26,8 @@ An end-to-end Machine Learning web application designed to evaluate a student's 
 
 ---
 
-## 🔗 Live Application Gateways
-* **Production Live URL:** https://student-placement-predictor-docker.onrender.com
-* **Source Repository:** https://github.com/iamgkkj/Student-Placement-Predictor-Docker.git
+## 🔗 [Live Application Gateways](https://student-placement-predictor-docker.onrender.com)
+* **Source Repository:** [https://github.com/iamgkkj/Student-Placement-Predictor-Docker.git](https://github.com/iamgkkj/Student-Placement-Predictor-Docker.git)
 
 
 ---
